@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8">
+        <title>Papua New Guinea</title>
+        <style>
+            .center {
+                 display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  width: aut ;
+            text-align:center;}
+            li {
+  margin-bottom: 15px; /* Adjust the value as needed */
+}
+        </style>
+    </head>
+    <body>
+       <H1 class="center">Papua New Guinea</H1>
+       <img class="center" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Flag_of_Papua_New_Guinea.svg/1280px-Flag_of_Papua_New_Guinea.svg.png" width="300" height= "200">
+        <h2>Famous people</h2>
+        <ol>
+            <li>Sir Michael Thomas Somare  (9 April 1936 – 25                       February 2021) was a Papua New Guinean politician.                  Widely called the "father of the nation",  he was                   the first Prime Minister after independence. At the                 time of his death, Somare was also the longest                      -serving prime minister, having been in office for                  17 years over three separate terms: from 1975 to                    1980; from 1982 to 1985; and from 2002 to 2011. His                 political career spanned from 1968 until his                        retirement in 2017. For more information, please visit <a href="https://en.wikipedia.org/wiki/Michael_Somare">Michael Somares</a></li>
+            <li>Adrian Lam (born 25 August 1970) is a Papua New         Guinean professional rugby league coach, and former player, who     is currently the head coach of the Super League club Leigh         Leopards. He played for the Sydney Roosters in the National Rugby     League and the Wigan Warriorsin the Super League. He represented Papua New Guinea, Queensland State of /Origin team and the Rest                 of the World team.
+
+    He was the head coach of Papua New Guinea between 2007 and 2012. He was assistant coach for Australia in the 2021 World Cup. For more information, please visit <a href ="https://en.wikipedia.org/wiki/Adrian_Lam">Adrian Lam</a></li>
+            <li>Peter Charles Paire O'Neill (born 13 February 1965) is a Papua New Guinean politician who served as the seventh Prime Minister of Papua New Guinea from 2011 to 2019. He has been a Member of Parliament for Ialibu-Pangia since 2002. He was a former cabinet minister and the leader of the People's National Congress between 2006 and 2022. He resigned his position as prime minister to avoid a vote of no confidence, and he was succeeded by James Marape. for more information, please visit <a href="https://en.wikipedia.org/wiki/Peter_O%27Neill">Peter Charles Paire O'Neill</a></li>
+        </ol>
+    </body>
+    
+    
+</html>
